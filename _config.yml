@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is created to keep Notes of CS Subjects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000"
-url2: "https://notes.sanfy.in/"
+url2: "http://notes.sanfy.in/"
 twitter_username: jekyllrb
 github_username:  jekyll
 
