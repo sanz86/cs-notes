@@ -5,7 +5,7 @@ author: Sanjib
 date: 2021-04-20 12:00
 category: cn
 color: body-pink
-category-desc: Computer Networks
+category-desc: Computer Network
 menu: Introduction
 menu-desc: Introduction
 ---
