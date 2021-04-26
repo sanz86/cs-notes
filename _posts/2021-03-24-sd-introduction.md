@@ -14,3 +14,17 @@ Systems design is the process of defining the architecture, product design, modu
 
 TF-IDF
 Term Frequency - Inverse Document Frequency
+
+tf("term1", doc_i) = term1_count/ words_count
+
+idf("term1") = log(N / nt)
+
+N - Number of documents
+nt - Number of documents containing the term1
+
+for(Document doc in documents) {
+  doc.score = tf("term1", doc_i) * idf("term1")
+            + tf("term2", doc_i) * idf("term2")
+            ----
+            + tf("termN", doc_i) * idf("termN")
+}
