@@ -10,4 +10,7 @@ menu: Introduction
 menu-desc: Introduction
 ---
 
-Systems design is the process of defining the architecture, product design, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.
+Systems design is the process of defining the architecture, product design, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.  
+
+TF-IDF
+Term Frequency - Inverse Document Frequency
